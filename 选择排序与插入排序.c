@@ -1,4 +1,3 @@
-```
 /*  选择排序   */
 Void SelectionSort(int a[], int size)
 {
@@ -18,4 +17,4 @@ Void SelectionSort(int a[], int size)
         a[tmpMin] = tmp;
     }
 }
-```
+
